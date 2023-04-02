@@ -18,7 +18,7 @@ nesse Hardware. O resultado será observado nos 4 Leds conectados no Hardware ex
 ![](https://raw.githubusercontent.com/pigor12/relatorioarqII/main/Prints/printArduino.png)
 
 * TinkerCad
-![](https://raw.githubusercontent.com/pedroigorreis/relatorioarqII/main/Prints/printTikerCad.png)
+![](https://raw.githubusercontent.com/pigor12/relatorioarqII/main/Prints/printTikerCad.png)
 
 * Conversão de dados
-![](https://raw.githubusercontent.com/pedroigorreis/relatorioarqII/main/Prints/printConversor.png)
+![](https://raw.githubusercontent.com/pigor12/relatorioarqII/main/Prints/printConversor.png)
